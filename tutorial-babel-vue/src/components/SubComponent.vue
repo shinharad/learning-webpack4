@@ -11,12 +11,14 @@
 <script>
   export default {
     name: 'sub-component',
+
     data(){
       return {
         count: 0
       }
     },
     props: ['message'],
+
     methods: {
       onClick() {
         console.log('クリックされました');

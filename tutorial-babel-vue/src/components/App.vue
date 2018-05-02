@@ -16,9 +16,11 @@
 </script>
 
 <style scoped>
+
   h1 {
     font-weight: normal;
   }
+
   .app {
     text-align: center;
     font-family: 'Roboto', sans-serif;
